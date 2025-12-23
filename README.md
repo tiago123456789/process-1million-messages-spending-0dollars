@@ -95,3 +95,5 @@ Link of architecture diagram: https://www.tldraw.com/f/TuKxRceybAfK90YX1sHAv?d=v
 
 
 
+## Extra tips:
+- Instead upgrade the Neon postgres plan you can create an acount on [Crockroachdb](https://www.cockroachlabs.com/), because has a free tier plan that execute 50 million of operations on database where the database compatible with postgres. PS: maybe can be a free solution to allow you handle more messages with spend more.
