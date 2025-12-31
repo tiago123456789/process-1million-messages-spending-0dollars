@@ -7,6 +7,8 @@
 
 The project has focus to implement the solution to resolve the scenario I described above.
 
+Link Youtube playlist: https://youtube.com/playlist?list=PLZlx9KubtKCt1xJGdWrmeo-1atZ0YzMc9&si=-1NBMF9v50c2_AVv
+
 ## Technologies
 
 - Client application
